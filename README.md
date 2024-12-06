@@ -26,7 +26,7 @@ The dataset consists of solar radiation and environmental metrics collected from
 # SETUP INSTRUCTION
 1. Clone the repositery
 
-  git clone https://github.com/username/10_ACADAMY_AIM.git
+  git clone (https://github.com/amani387/10_ACADAMY_AIM.git)
 
   cd 10_ACADAMY_AIM
 
@@ -58,3 +58,34 @@ Perform EDA on the dataset to:
 
 . Deploy the dashboard on Streamlit Community Cloud.
 
+# KEY FEATURES
+
+. Descriptive Statistics: Summary of solar irradiance and environmental metrics.
+
+. Time-Series Analysis: Trends in solar radiation over time.
+
+. Correlation Analysis: Relationships between environmental factors and solar irradiance.
+
+. Interactive Visualizations: User-friendly Streamlit interface.
+
+# TECHNOLOGIES USED
+
+. Python: Data analysis and preprocessing.
+
+. Pandas & NumPy: Data manipulation.
+
+. Matplotlib & Seaborn: Data visualization.
+
+. Streamlit: Interactive dashboard.
+
+. Git & GitHub: Version control and collaboration.
+
+# RESULTS
+
+. Link to Final Report
+
+. (Optional) Live Streamlit App
+
+# CONTRIBUTER
+
+Amanuel Nega - [GitHub](https://github.com/amani387) | www.linkedin.com/in/amanuel-nega-533353246

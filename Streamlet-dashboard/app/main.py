@@ -9,8 +9,8 @@ import matplotlib.pyplot as plt
 from app.utils import load_data, process_data  # Import from utils.py
 
 # Load the dataset
-data = load_data("C:/Users/kingsta/Desktop/KIFIYA 10 ACADAMY/10_ACADAMY_AIM/Streamlet-dashboard/data/benin-malanville.csv")
-  # Adjust the file path if necessary
+data = load_data("data/benin-malanville.csv")
+ # Adjust the file path if necessary
 data = process_data(data)
 
 # Title and Description

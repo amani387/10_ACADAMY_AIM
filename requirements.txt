@@ -1,8 +1,0 @@
-visual studio:use  as an IDE
-Required Libraries:
-
-pandas for data manipulation.
-matplotlib for plotting graphs.
-seaborn for statistical data visualization.
-scipy for Z-score calculations (for outliers).
-jupyter if you're running Jupyter Notebooks
